@@ -45,7 +45,7 @@
 
  ![Deveops generator](C:\Users\Pintu Kumar Sah\Pictures\Screenshots\deveops_image.png)
        ![Uploading deveops_image.png…](C:\Users\Pintu Kumar Sah\Pictures\Screenshots\deveops_image.png)
-        ![Uploading deveops_image.png…]()
+        ![Uploading deveops_image.png…](https://github.com/Pintu764/Azure_devOps_series-from-zero-to-advance/assets/159055209/94f3d74c-7344-49b4-b5f1-2d06c82738f1)
         ![Uploading deveops_image.png…](
 <img width="557" alt="deveops_image" src="https://github.com/Pintu764/Azure_devOps_series-from-zero-to-advance/assets/159055209/484dc3f1-e195-4be6-9f85-1d4bf8e7451b">)
 

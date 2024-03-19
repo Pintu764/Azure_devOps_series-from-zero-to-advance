@@ -42,16 +42,12 @@
 
 1. #### [Navigate to https://azuredevopsdemogenerator.azurewebsites.net](https://azuredevopsdemogenerator.azurewebsites.net). This utility site will automate the creation of a new Azure DevOps project within your account that is prepopulated with content (work items, repos, etc.) required for the lab.
 2.  ### Sign in using the Microsoft account associated with your Azure DevOps subscription.
-
- ![Deveops generator](C:\Users\Pintu Kumar Sah\Pictures\Screenshots\deveops_image.png)
-       ![Uploading deveops_image.png…](C:\Users\Pintu Kumar Sah\Pictures\Screenshots\deveops_image.png)
-        ![Uploading deveops_image.png…](https://github.com/Pintu764/Azure_devOps_series-from-zero-to-advance/assets/159055209/94f3d74c-7344-49b4-b5f1-2d06c82738f1)
-        ![Uploading deveops_image.png…](
-<img width="557" alt="deveops_image" src="https://github.com/Pintu764/Azure_devOps_series-from-zero-to-advance/assets/159055209/484dc3f1-e195-4be6-9f85-1d4bf8e7451b">)
-
+ ![Uploading deveops_image.png…](https://github.com/Pintu764/Azure_devOps_series-from-zero-to-advance/assets/159055209/94f3d74c-7344-49b4-b5f1-2d06c82738f1)
+        
 3. ### Accept the permission requests for accessing your subscription.
+  
 
-4. ### Select the PartsUnlimited template and click Select Template.
+5. ### Select the PartsUnlimited template and click Select Template.
 
 ![PROJECT CREATION](‪C:\Users\Pintu Kumar Sah\Pictures\Screenshots\DEVEOPS_IMAGE-2.png)
 

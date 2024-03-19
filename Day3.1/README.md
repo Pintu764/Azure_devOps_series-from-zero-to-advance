@@ -47,10 +47,10 @@
 3. ### Accept the permission requests for accessing your subscription.
   
 
-5. ### Select the PartsUnlimited template and click Select Template.
+4. ### Select the PartsUnlimited template and click Select Template.
 
-![PROJECT CREATION](‪C:\Users\Pintu Kumar Sah\Pictures\Screenshots\DEVEOPS_IMAGE-2.png)
+![PROJECT CREATION](‪https://github.com/Pintu764/Azure_devOps_series-from-zero-to-advance/assets/159055209/061c6ca6-f11b-48ba-bc77-098c1596182e)
 
 5.### Click Create Project and wait for the process to complete.
-![create](C:\Users\Pintu Kumar Sah\Pictures\Screenshots\deveops_image-3.png)
+![create](https://github.com/Pintu764/Azure_devOps_series-from-zero-to-advance/assets/159055209/e0aea1ce-9261-4d9c-9221-e687fcb30481)
   

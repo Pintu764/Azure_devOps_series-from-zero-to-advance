@@ -12,9 +12,6 @@
 * Managing Pull requests
 * Sample application code
 
-  # What is Azure repos?
-  ### Azure Repos is a set of version control tools that you can use to manage your code, just like GitHub. Whether your software project is large or small, using version control as soon as possible is a good idea.
-
   ### Azure Repos is a set of version control tools within Microsoft Azure DevOps Services (formerly known as Visual Studio Team Services or VSTS) that provides Git repositories or Team Foundation Version Control (TFVC) for source control of your code.
 
 ### Here's a breakdown of what Azure Repos offers:
@@ -37,4 +34,23 @@
 * Maintains the history of your codebase, who made the changes, what changes were made, why the changes were made, etc
 * Helps you stay organized
 * Gives you the ability to rollback the changes as needed
+
+
+
+  # Azure DevOps Demo Generator
+ ### Use these steps to load dummy data into your Azure DevOps project. We will use this data in the demo.
+
+1. #### [Navigate to https://azuredevopsdemogenerator.azurewebsites.net](https://azuredevopsdemogenerator.azurewebsites.net). This utility site will automate the creation of a new Azure DevOps project within your account that is prepopulated with content (work items, repos, etc.) required for the lab.
+2.  ### Sign in using the Microsoft account associated with your Azure DevOps subscription.
+
+image  ![Deveops generator](C:\Users\Pintu Kumar Sah\Pictures\Screenshots\deveops_image.png)
+
+3. ### Accept the permission requests for accessing your subscription.
+
+4. ### Select the PartsUnlimited template and click Select Template.
+
+![PROJECT CREATION](‪C:\Users\Pintu Kumar Sah\Pictures\Screenshots\DEVEOPS_IMAGE-2.png)
+
+5.### Click Create Project and wait for the process to complete.
+![create](C:\Users\Pintu Kumar Sah\Pictures\Screenshots\deveops_image-3.png)
   

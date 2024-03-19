@@ -46,6 +46,9 @@
  ![Deveops generator](C:\Users\Pintu Kumar Sah\Pictures\Screenshots\deveops_image.png)
        ![Uploading deveops_image.png…](C:\Users\Pintu Kumar Sah\Pictures\Screenshots\deveops_image.png)
         ![Uploading deveops_image.png…]()
+        ![Uploading deveops_image.png…](
+<img width="557" alt="deveops_image" src="https://github.com/Pintu764/Azure_devOps_series-from-zero-to-advance/assets/159055209/484dc3f1-e195-4be6-9f85-1d4bf8e7451b">)
+
 3. ### Accept the permission requests for accessing your subscription.
 
 4. ### Select the PartsUnlimited template and click Select Template.
